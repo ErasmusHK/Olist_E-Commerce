@@ -1,4 +1,4 @@
-# Olist - Brazilian e-commerce public dataset
+# Olist - Brazilian E-Commerce
 
 The dataset has information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
 
